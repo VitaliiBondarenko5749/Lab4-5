@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Lab5/">
+    <Project Path="CalculationClient/CalculationClient.csproj" Id="fa1e12f1-94bf-459a-91c9-9fad4dc89aef" />
+    <Project Path="CalculationInterfaces/CalculationInterfaces.csproj" Id="0529a29a-c1f4-4092-86b9-02dc4ead2f6d" />
+    <Project Path="CalculationServer/CalculationServer.csproj" Id="ba938b7f-2d7d-4448-83c1-8e3c9b2e6b4f" />
+  </Folder>
+  <Folder Name="/Lab6/" />
+  <Folder Name="/Lab7/" />
+  <Folder Name="/Lab8/" />
+</Solution>
