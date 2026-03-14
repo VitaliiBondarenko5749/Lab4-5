@@ -4,7 +4,7 @@
     <Project Path="CalculationInterfaces/CalculationInterfaces.csproj" Id="0529a29a-c1f4-4092-86b9-02dc4ead2f6d" />
     <Project Path="CalculationServer/CalculationServer.csproj" Id="ba938b7f-2d7d-4448-83c1-8e3c9b2e6b4f" />
   </Folder>
-  <Folder Name="/Lab6/" />
-  <Folder Name="/Lab7/" />
-  <Folder Name="/Lab8/" />
+  <Folder Name="/Lab8/">
+    <Project Path="ProductApplication/ProductApplication.csproj" Id="302ca601-18e6-4f36-892c-e8bf7fa9f21e" />
+  </Folder>
 </Solution>
